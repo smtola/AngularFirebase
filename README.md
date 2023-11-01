@@ -1,1 +1,1 @@
-website Link: https://smtola.github.io/angularFirebase/
+website Link: https://smtola.github.io/AngularFirebase/
